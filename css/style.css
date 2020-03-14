@@ -23,6 +23,7 @@ body {
   opacity: 0.5;
   width:42px;
   height:42px;
+  text-align:center;
 }
 
 #myBtn:hover {
